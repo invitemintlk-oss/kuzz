@@ -1,0 +1,6 @@
+{
+  "name": "Surprise for Kuzz - Happy Birthday",
+  "description": "A heartfelt romantic birthday surprise web experience featuring interactive envelope unsealing, love note from Sri Lanka to Israel, photo memories, and candle wishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
